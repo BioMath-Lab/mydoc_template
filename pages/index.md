@@ -13,7 +13,7 @@ can check local server here: http://127.0.0.1:8000/mydoc_template/
 
 # Homepage
 <!-- ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg) -->
-# ![biomath](pages/assets/logo_all.png)
+# ![biomath](assets/logo_all.png)
 
 ## Mathematical Biosciences Lab
 Our lab is a multidisciplinary research team at the interface of mathematics and biology/life sciences. As part of the Department of Mathematical Sciences at Stellenbosch University in South Africa, we are a dynamic research group led by Prof Cang Hui, a SARChI Chair in Mathematical and Theoretical Physical Biosciences. Our interests lie in proposing models and theories for explaining emerging patterns in ecology. Ecology studies biodiversity in its variety and complexity. As ecological processes are highly complex and adaptive, we rely on the simplicity of mathematical language to build models and theoretical frameworks.
@@ -35,4 +35,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - [National Institute for Theoretical and Computational Sciences (NITheCS)](https://nithecs.ac.za/)
 
-![Alt Text](pages/assets/logo_biomath.png)
+# ![logo](assets/logo_biomath.png)
