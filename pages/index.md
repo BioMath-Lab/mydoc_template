@@ -1,4 +1,5 @@
 <!-- ## Commands
+can check local server here: http://127.0.0.1:8000/mydoc_template/
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
@@ -24,7 +25,7 @@ Welcome to the Mathematical Biosciences (BioMath) GitHub repository, a dedicated
 
   - [**Sandra MacFadyen**](https://www0.sun.ac.za/biomath/pf/sandra-macfadyen/)
 
-See also the list of [contributors](pages/working.md) who participated in this project.
+See also the list of [contributors](working.md) who participated in this project.
 
 ## License
 

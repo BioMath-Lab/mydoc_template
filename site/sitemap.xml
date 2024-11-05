@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://biomath-lab.github.io/mydoc_template/LICENSE/</loc>
+         <lastmod>2024-11-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://biomath-lab.github.io/mydoc_template/about/</loc>
          <lastmod>2024-11-05</lastmod>
          <changefreq>daily</changefreq>

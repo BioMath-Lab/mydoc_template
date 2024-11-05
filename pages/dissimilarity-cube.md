@@ -20,7 +20,7 @@ Design workflows to compile a co-occurrence matrix for species in a geographic a
 
   - [**Sandra MacFadyen**](https://www0.sun.ac.za/biomath/pf/sandra-macfadyen/)
 
-See also the list of [contributors](pages/working.md) who participated in this project.
+See also the list of [contributors](working.md) who participated in this project.
 
 ## License
 

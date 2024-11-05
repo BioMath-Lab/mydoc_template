@@ -26,7 +26,7 @@ The impact of invasive alien species is recognised as one of the leading drivers
   - Sandra MacFadyen
   - Pietro Landi
 
-See also the list of [contributors](pages/working.md) who participated in this project.
+See also the list of [contributors](working.md) who participated in this project.
 
 ## License
 
