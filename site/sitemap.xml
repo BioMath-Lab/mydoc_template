@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://biomath-lab.github.io/mydoc_template/</loc>
+         <lastmod>2024-11-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://biomath-lab.github.io/mydoc_template/about/</loc>
+         <lastmod>2024-11-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://biomath-lab.github.io/mydoc_template/dissimilarity-cube/</loc>
+         <lastmod>2024-11-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://biomath-lab.github.io/mydoc_template/impact-indicators/</loc>
+         <lastmod>2024-11-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://biomath-lab.github.io/mydoc_template/invasibility-cube/</loc>
+         <lastmod>2024-11-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://biomath-lab.github.io/mydoc_template/working/</loc>
+         <lastmod>2024-11-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>

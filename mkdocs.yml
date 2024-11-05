@@ -1,21 +1,18 @@
 site_name: BioMath Basic Docs Template
-site_url: https://biomath-lab.github.io/mydoc_template
-# logo: assets/favicon.ico
-favicon: assets/favicon.ico
+site_url: https://biomath-lab.github.io/mydoc_template/
+docs_dir: pages
 
 nav:
-  - Home: 'pages/index.md'
-  - About: 'pages/about.md'
-  - Dissimilarity Cubes: 'pages/dissimilarity-cube.md'
-  - Invasibility Cubes: 'pages/invasibility-cube.md'
-  - Impact Indicators: 'pages/impact-indicators.md'
+  - Home: 'index.md'
+  - About: 'about.md'
+  - Dissimilarity Cubes: 'dissimilarity-cube.md'
+  - Invasibility Cubes: 'invasibility-cube.md'
+  - Impact Indicators: 'impact-indicators.md'
 
 theme:
   name: material
   logo: assets/logo_sun.png
   nav_style: tabs
-  nav:
-    hide: true  # If available, this option might hide duplicates
   features:
     - navigation.tabs
     - navigation.sections
@@ -46,6 +43,7 @@ theme:
       accent: lime
       
 extra:
+  favicon: assets/favicon.ico
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/BioMath-Lab/mydoc_template
