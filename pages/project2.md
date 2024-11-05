@@ -24,6 +24,6 @@ Phasellus adipiscing cursus ante, eget tincidunt nibh pulvinar a. Fusce convalli
 [National Institute for Theoretical and Computational Sciences (NITheCS)](https://nithecs.ac.za/)
 
 ## References   
-Ref 1 () Integer sed vehicula justo, eget tincidunt orci.
-Ref 2 () Integer sed vehicula justo, eget tincidunt orci.
+Ref 1 () Integer sed vehicula justo, eget tincidunt orci.  
+Ref 2 () Integer sed vehicula justo, eget tincidunt orci.  
 Ref 3 () Integer sed vehicula justo, eget tincidunt orci.
